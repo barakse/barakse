@@ -5,6 +5,7 @@
 
 🔭 My Projects:
 - [x] Checkers Game for Windows Desktop.
+- [x] Desktop Facebook with Facebook API.
 
 - 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
 
