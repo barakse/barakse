@@ -6,6 +6,7 @@
 🔭 My Projects:
 - [x] Checkers Game for Windows Desktop.
 - [x] Desktop Facebook with Facebook API.
+- [x] SmartSend - Innovative community-based delivery system.
 
-- 🎓 Currently pursuing B.Sc in Computer Science (3rd Year Student).
+- 🎓 Currently pursuing B.Sc in Computer Science (4rd Year Student).
 
