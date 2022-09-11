@@ -8,5 +8,5 @@
 - [x] Desktop Facebook with Facebook API.
 - [x] SmartSend - Innovative community-based delivery system.
 
-- 🎓 Currently pursuing B.Sc in Computer Science (4rd Year Student).
+- 🎓 B.Sc in Computer Science.
 
