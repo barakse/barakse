@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Barak</h1>
+<h1>Hello World, I'm Barak</h1>
 <h1 align="center">Full-Stack Developer</h2>
 <h5 align="center">Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards.</h5>
 
