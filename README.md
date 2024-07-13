@@ -1,6 +1,6 @@
 <h3>Hi, I'm Barak👋</h1>
 <h3>Full-Stack Developer at BackBox</h2>
-Highly motivated and always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards
+Experienced in software & web developing, I'm always looking forward to learn and investigate new technologies to keep being modern and up to the industry standards
 
 
 🔭 My Projects:
